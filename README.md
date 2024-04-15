@@ -1,36 +1,29 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# PikaBoard 
 
-## Getting Started
+Welcome to the PikaBoard project repository!
 
-First, run the development server:
+## Overview
+PikaBoard is an innovative collaboration platform aimed at revolutionizing the way teams work together and unleash their creativity. It provides a dynamic space for brainstorming, planning, and ideation.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Features
+- **Real-time Collaboration**: Work together seamlessly with your team members in real-time.
+- **Intuitive Interface**: Easy-to-use interface designed to enhance productivity and creativity.
+- **Versatile Tools**: Access a wide range of tools and features to bring your ideas to life.
+- **Customizable Workflows**: Tailor PikaBoard to fit your team's unique workflow and preferences.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Installation
+1. Clone the repository to your local machine.
+2. Run `npm install` to install the necessary dependencies.
+3. Run `npm run dev` to start the development server.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Sorry for Live Demo
+We apologize for the inconvenience, but due to a GitHub account suspension, we are unable to provide a live demo at the moment. However, you can still explore the code and contribute to the project by following the installation instructions above.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+## Feedback
+We'd love to hear your feedback! If you have any questions, suggestions, or bug reports, please create an issue in this repository or reach out to us directly.
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Thank you for your interest in PikaBoard! Let's innovate and collaborate together! 🚀🎨
